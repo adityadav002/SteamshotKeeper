@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZINFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.00</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Handcrafted</MASTER_PAD_EDITOR>
+  </MASTER_PAD_VERSION_INFO>
+
+  <Program_Info>
+    <Program_Name>SteamshotKeeper</Program_Name>
+    <Program_Version>0.3.2</Program_Version>
+    <Program_Release_Status>Release</Program_Release_Status>
+
+    <Program_Categories>
+      <Category>Multimedia Tools</Category>
+      <Category>Utilities</Category>
+    </Program_Categories>
+
+    <Program_Short_Description>
+      Tool for downloading and organizing Steam screenshots.
+    </Program_Short_Description>
+
+    <Program_Description>
+      Steamshot Downloader is a tool for retrieving, saving, and organizing screenshots
+      from a Steam user account. It supports both the official Steam API and a crawler
+      method, stores screenshots in structured folders, and preserves their original
+      filenames. The demo version is limited to the 100 most recent screenshots.
+    </Program_Description>
+
+    <Program_Keywords>
+      Steam; Screenshot; Downloader; Image Management; Steam API
+    </Program_Keywords>
+
+    <Program_URLs>
+      <Application_URL>https://github.com/Alsweider/SteamshotKeeper</Application_URL>
+      <Download_URL>https://github.com/Alsweider/SteamshotKeeper/releases/download/v0.3.1-demo/SteamshotKeeper.v0.3.1-demo.zip</Download_URL>
+      <Icon_URL>https://github.com/Alsweider/SteamshotKeeper/raw/refs/heads/master/SteamshotKeeper.ico</Icon_URL>
+      <Screenshot_URL>https://raw.githubusercontent.com/Alsweider/SteamshotKeeper/4fdd51cd6b16207bbdd4ee25ccad9c6edd280c1d/screenshot.jpg</Screenshot_URL>
+      <Screenshot_URL>https://raw.githubusercontent.com/Alsweider/SteamshotKeeper/refs/heads/master/SteamshotKeeper.png</Screenshot_URL>
+    </Program_URLs>
+
+    <Program_System_Requirements>
+      <Requirement>Windows 10 or later</Requirement>
+      <Requirement>Internet connection for Steam access</Requirement>
+    </Program_System_Requirements>
+
+    <Program_Language>English</Program_Language>
+    <Program_Cost_Dollars>5.83</Program_Cost_Dollars>
+    <Program_Type>Demo</Program_Type>
+  </Program_Info>
+
+  <Developer_Info>
+    <Developer_Name>Alsweider</Developer_Name>
+    <Developer_Email>steamshotkeeper@proton.me</Developer_Email>
+    <Developer_Company>Alsweider</Developer_Company>
+    <Developer_URL>https://github.com/Alsweider</Developer_URL>
+  </Developer_Info>
+
+  <Program_File_Info>
+    <File_Size_MB>21</File_Size_MB>
+    <File_Type>ZIP</File_Type>
+  </Program_File_Info>
+
+  <Program_Version_Info>
+    <Changes>
+      Demo version limited to the 100 most recent screenshots.
+    </Changes>
+  </Program_Version_Info>
+
+</XML_DIZINFO>
