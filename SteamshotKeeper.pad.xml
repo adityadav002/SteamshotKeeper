@@ -7,7 +7,7 @@
 
   <Program_Info>
     <Program_Name>SteamshotKeeper</Program_Name>
-    <Program_Version>0.3.2</Program_Version>
+    <Program_Version>0.3.1</Program_Version>
     <Program_Release_Status>Release</Program_Release_Status>
 
     <Program_Categories>
@@ -43,8 +43,9 @@
     </Program_System_Requirements>
 
     <Program_Language>English</Program_Language>
-    <Program_Cost_Dollars>5.83</Program_Cost_Dollars>
+    <Program_Cost_Dollars>0.00</Program_Cost_Dollars>
     <Program_Type>Demo</Program_Type>
+    <Program_License>Proprietary; Demo version free, full version is paid</Program_License>
   </Program_Info>
 
   <Developer_Info>
