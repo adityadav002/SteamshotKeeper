@@ -20,9 +20,9 @@
     </Program_Short_Description>
 
     <Program_Description>
-     SteamshotKeeper is a tool for retrieving, saving, and organizing screenshots
-     from a Steam user account. It supports both the official Steam API and a crawler
-     method, stores screenshots in structured folders, and preserves their original
+      SteamshotKeeper is a tool for retrieving, saving, and organizing screenshots
+      from a Steam user account. It supports both the official Steam API and a crawler
+      method, stores screenshots in structured folders, and preserves their original
       filenames. The demo version is limited to the 100 most recent screenshots.
       The full version is commercially available at https://whop.com/alsweider/steamshotkeeper-dl/
     </Program_Description>
