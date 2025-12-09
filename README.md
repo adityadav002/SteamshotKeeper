@@ -6,7 +6,7 @@ Steam screenshot backup tool. Download your old screenshots from the Steam cloud
  
 ![2025-12-03 19_22_03-SteamshotKeeper 0 3 2](https://github.com/user-attachments/assets/696f1328-4339-4984-b2b9-6515e5bfa343)
 
-<img width="256" height="256" alt="SteamshotKeeper" src="https://github.com/user-attachments/assets/6cc74851-1f04-49ce-b865-c8b419c5fa59" />
+<i>Field tests recorded speeds of around 12 images per second, which may vary depending on network infrastructure.</i>
 
 ## Usage
 1. Enter your Steam name (custom vanity profile name).
